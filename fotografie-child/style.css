@@ -1,0 +1,32 @@
+/*
+Theme Name: Fotografie Child
+Theme URI: https://catchthemes.com/themes/fotografie/
+Template: fotografie
+Author: Catch Themes
+Author URI: https://catchthemes.com/
+Description: Fotografie is a modern photography WordPress theme that comes with high-quality features and minimal design. True to the essence of the German word, Fotografie is simple, elegant and straightforward. It is ideal for creating photography websites for photographers, graphic designers, freelancers, artists, or bloggers. It comes with basic features that are extremely crucial, like header media options, hero content, portfolio, featured content, color options and menu options to create a simple and elegant website in no time. Designed to make your photographs stand out with clear, easy to read content, Fotografie has it all to take your photoblogs to the next level. Fotografie stands out in the respect that it puts your photographs in the limelight while doing all the important background work. Showcase to the world what's important - your Fotografie. This theme is translation ready. For more details, check out the Theme Instructions at https://catchthemes.com/theme-instructions/fotografie/ and Support forum at https://catchthemes.com/support-forum/forum/fotografie-free/.
+Tags: one-column,two-columns,left-sidebar,flexible-header,custom-background,custom-logo,custom-header,custom-menu,editor-style,featured-image-header,featured-images,footer-widgets,rtl-language-support,translation-ready,blog,photography,portfolio
+Version: 1.4.5.1518715793
+Updated: 2018-02-15 17:29:53
+
+*/
+
+.singular-section .content-area .post-thumbnail img{
+	display:none;
+}
+
+#masthead {
+    background-color: #462222;
+}
+
+div#site-generator{
+	background-color: #462222;
+}
+
+.more-link:hover, .more-link:focus {
+    color: #462222;
+}
+
+button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+    background-color: #462222;
+}
